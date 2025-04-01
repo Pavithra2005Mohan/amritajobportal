@@ -39,7 +39,7 @@ export const Contact = () => {
 
             <Card
               title="Address"
-              content="Amrita Job-Portal, Wall Street, New York, 123, United States"
+              content="Amrita Vishwa Vidyapeetham, 337/1 A, Vallal RCK Nagar, SH 50A, Vengal, Tamil Nadu 601103"
             />
             <Card
               title="Email"
